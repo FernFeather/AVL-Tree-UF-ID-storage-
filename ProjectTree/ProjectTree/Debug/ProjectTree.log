@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Julia\source\repos\ProjectTree\ProjectTree\Source.cpp(301,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Julia\source\repos\ProjectTree\ProjectTree\Source.cpp(308,27): warning C4018: '<': signed/unsigned mismatch
+  ProjectTree.vcxproj -> C:\Users\Julia\source\repos\ProjectTree\Debug\ProjectTree.exe
